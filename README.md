@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VinimSi
-- 👀 I’m interested in programming and cloud services
-- 🌱 I’m currently learning python and azure
+- 👀 I’m interested in programming and websites
+- 🌱 I’m currently learning python and front-end
 - 💞️ I’m looking to help others and learn everything that I can
 
 <!---
